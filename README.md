@@ -13,4 +13,7 @@ mkdir utils
 touch utils/common.py
 ```
 
-## Step3: 
+## Step3: Create The src/stage_01_get_data.py file 
+```
+touch src/stage_01_get_data.py
+```
