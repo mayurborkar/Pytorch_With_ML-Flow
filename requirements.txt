@@ -7,3 +7,5 @@ flask
 numpy
 tqdm
 pep8
+
+-e .
