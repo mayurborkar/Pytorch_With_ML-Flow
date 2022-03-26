@@ -1,2 +1,8 @@
-# Project-Template
-The Repository Will Create The  General Project Structure.
+# Pytorch With ML-Flow
+
+## Step1: Run The Bash File
+```
+bash init_setup.sh
+```
+
+## Step2: 

@@ -1,0 +1,9 @@
+### dependency
+mlflow
+pandas
+PyYAML
+Pillow
+flask
+numpy
+tqdm
+pep8
