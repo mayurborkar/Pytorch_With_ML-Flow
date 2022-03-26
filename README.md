@@ -5,4 +5,12 @@
 bash init_setup.sh
 ```
 
-## Step2: 
+## Step2: Create The Utils Dir inside src for creating some python repeated file
+```
+mkdir utils
+```
+```
+touch utils/common.py
+```
+
+## Step3: 
