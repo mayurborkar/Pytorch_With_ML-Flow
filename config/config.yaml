@@ -1,3 +1,9 @@
 Data: 
   ROOT_DATA_FOLDER: Data
   
+Params:
+  BATCH_SIZE: 32
+  LEARNING_RATE: 0.001
+  IMAGE_SIZE: (28,28)
+  SEED: 2022
+  EPOCH: 1
