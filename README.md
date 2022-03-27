@@ -13,7 +13,17 @@ mkdir utils
 touch utils/common.py
 ```
 
+## Step3: To Use src as packaage we have run the setup.py file
+```
+pip install -e .
+```
+
 ## Step3: Create The src/stage_01_get_data.py file 
 ```
 touch src/stage_01_get_data.py
+```
+
+## Step4: Create The src/stage_01_get_data.py file 
+```
+touch src/stage_02_data_loader.py
 ```
