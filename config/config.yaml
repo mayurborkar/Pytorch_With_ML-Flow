@@ -1,5 +1,9 @@
 Data: 
   ROOT_DATA_FOLDER: Data
+
+Artifacts:
+  MODEL: artifacts
+  BASE_MODEL: base_model.pth
   
 Params:
   BATCH_SIZE: 32
