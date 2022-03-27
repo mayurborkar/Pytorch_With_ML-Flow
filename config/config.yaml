@@ -4,10 +4,11 @@ Data:
 Artifacts:
   MODEL: artifacts
   BASE_MODEL: base_model.pth
+  TRAINED_MODEL: trained_model.pth
   
 Params:
   BATCH_SIZE: 32
   LEARNING_RATE: 0.001
   IMAGE_SIZE: (28,28)
   SEED: 2022
-  EPOCH: 1
+  EPOCH: 10

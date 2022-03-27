@@ -32,3 +32,8 @@ touch src/stage_02_data_loader.py
 ```
 touch src/stage_03_model_creation.py
 ```
+
+## Step7: Create The src/stage_04_training_model.py file 
+```
+touch src/stage_04_training_model.py
+```
