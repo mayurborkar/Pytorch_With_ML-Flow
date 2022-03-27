@@ -42,8 +42,8 @@ class CNN(nn.Module):
     def forward(self, x):
         logging.info(f'Making The Forword Pass......')
 
-        x = self.conv_pool_01(x)
-        x = self.conv_pool_02(x)
+        x = self.conv_pool_1(x)
+        x = self.conv_pool_2(x)
         x = self.Flatten(x)
         x = self.FC_01(x)
         x = F.relu(x)
