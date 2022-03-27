@@ -37,3 +37,8 @@ touch src/stage_03_model_creation.py
 ```
 touch src/stage_04_training_model.py
 ```
+
+## Step8: Create The src/stage_05_prediction.py file 
+```
+touch src/stage_05_prediction.py
+```

@@ -1,5 +1,7 @@
 Data: 
   ROOT_DATA_FOLDER: Data
+  PREDICTION_DATA: Prediction
+  PREDICTION_FILE: Prediction.txt
 
 Artifacts:
   MODEL: artifacts
@@ -12,3 +14,4 @@ Params:
   IMAGE_SIZE: (28,28)
   SEED: 2022
   EPOCH: 10
+  TEST_DATA_BATCH: 3
