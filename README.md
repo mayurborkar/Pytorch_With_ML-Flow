@@ -42,3 +42,22 @@ touch src/stage_04_training_model.py
 ```
 touch src/stage_05_prediction.py
 ```
+
+## Step9: Create The main.py For Starting Point 
+```
+touch src/main.py
+```
+
+### Step10: Create the MLproject File To Use Mlops & Run It by Below Command
+```
+mlflow run . --no-conda
+```
+### Step11: To run any specific entry point in MLproject file
+```
+mlflow run . -e get_data --no-conda
+```
+
+### Step12: To run any specific entry point in MLproject file
+```
+mlflow run . -e get_data -P config=configs/your_config.yaml --no-conda
+```

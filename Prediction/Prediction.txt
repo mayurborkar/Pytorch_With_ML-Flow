@@ -15,15 +15,15 @@ Predicted class is---->Dress Actual class is Dress
 Predicted class is---->Coat Actual class is Coat
 Predicted class is---->Trouser Actual class is Trouser
 Predicted class is---->Pullover Actual class is Pullover
-Predicted class is---->Shirt Actual class is Coat
+Predicted class is---->Pullover Actual class is Coat
 Predicted class is---->Bag Actual class is Bag
 Predicted class is---->T-shirt/top Actual class is T-shirt/top
 Predicted class is---->Pullover Actual class is Pullover
-Predicted class is---->Sandal Actual class is Sandal
+Predicted class is---->Sneaker Actual class is Sandal
 Predicted class is---->Sneaker Actual class is Sneaker
 Predicted class is---->Sandal Actual class is Ankle boot
 Predicted class is---->Trouser Actual class is Trouser
-Predicted class is---->Shirt Actual class is Coat
+Predicted class is---->Pullover Actual class is Coat
 Predicted class is---->Shirt Actual class is Shirt
 Predicted class is---->T-shirt/top Actual class is T-shirt/top
 Predicted class is---->Ankle boot Actual class is Ankle boot
@@ -46,10 +46,10 @@ Predicted class is---->Shirt Actual class is Shirt
 Predicted class is---->Sneaker Actual class is Sneaker
 Predicted class is---->Pullover Actual class is Pullover
 Predicted class is---->Trouser Actual class is Trouser
-Predicted class is---->Shirt Actual class is Pullover
+Predicted class is---->Pullover Actual class is Pullover
 Predicted class is---->Shirt Actual class is Pullover
 Predicted class is---->Coat Actual class is Coat
-Predicted class is---->Coat Actual class is Coat
+Predicted class is---->Pullover Actual class is Coat
 Predicted class is---->Sandal Actual class is Sandal
 Predicted class is---->Bag Actual class is Bag
 Predicted class is---->Pullover Actual class is Pullover
@@ -65,14 +65,14 @@ Predicted class is---->Sandal Actual class is Sandal
 Predicted class is---->Trouser Actual class is Trouser
 Predicted class is---->Trouser Actual class is Trouser
 Predicted class is---->Shirt Actual class is Pullover
-Predicted class is---->Coat Actual class is Dress
+Predicted class is---->Dress Actual class is Dress
 Predicted class is---->Sneaker Actual class is Ankle boot
 Predicted class is---->Bag Actual class is Bag
 Predicted class is---->Sneaker Actual class is Sneaker
 Predicted class is---->T-shirt/top Actual class is T-shirt/top
 Predicted class is---->Pullover Actual class is Pullover
-Predicted class is---->Shirt Actual class is Shirt
-Predicted class is---->Coat Actual class is Pullover
+Predicted class is---->T-shirt/top Actual class is Shirt
+Predicted class is---->Pullover Actual class is Pullover
 Predicted class is---->Dress Actual class is Dress
 Predicted class is---->Trouser Actual class is Trouser
 Predicted class is---->Pullover Actual class is Pullover
